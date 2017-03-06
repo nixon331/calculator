@@ -1,3 +1,10 @@
+'''
+Created on 24 Feb 2017
+
+@author: James.Nixon
+'''
+
+
 #returns the sum of num1 and num2
 def add(num1, num2):
 	return num1 + num2
